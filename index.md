@@ -1,8 +1,7 @@
-<html>
-  <head>
-  </head>
-  <body>
-    <a href="/about.html"><h1>Hello</h1></a>
-    hvh
-  </body>
-</html>
+---
+layout: default
+---
+
+Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+[Link to another page](./about.html).
